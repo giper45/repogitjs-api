@@ -1,0 +1,10 @@
+{
+	"user" : {
+			"username" : "username",
+			"password" : "password" 
+		} , 
+	"cloneExample": "http://toclone",
+	"cloneWithAuth" : "http://tocloneWithAuth" 
+
+
+}

@@ -29,6 +29,15 @@ build/Release
 # Dependency directories
 node_modules
 jspm_packages
+#Private test variables
+test/git_to_clone/**
+test/git_test/**
+test/data/**
+#Allow these to create dirs
+!test/git_test/.test
+!test/git_test/.test
+!test/data/.test
+
 
 # Optional npm cache directory
 .npm
